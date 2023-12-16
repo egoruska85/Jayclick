@@ -74,3 +74,9 @@ group :test do
 end
 
 gem "rails-i18n"
+gem 'devise'
+gem 'devise-bootstrap-views'
+gem 'devise-i18n'
+gem 'rails_admin', '3.0'
+gem 'rails_admin-i18n'
+gem "font-awesome-sass", "~> 6.5.1"
